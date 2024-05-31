@@ -13,7 +13,7 @@ date = str(datetime.today().strftime("%Y%m%d"))
 print(date)
 
 # Main Flipkart link.
-main_link = ""
+main_link = "https://www.flipkart.com/search?q=laptop&sid=6bo%2Cb5g&as=on&as-show=on&as-pos=2&as-type=RECENT&as-searchtext=l&requestId=51477943-7e38-4ad9-b2b0-60196e384224&suggestionId=laptop%7CLaptops&p%5B%5D=facets.price_range%255B%255D%3DRs.%2B20000%2B-%2BRs.%2B40000&p%5B%5D=facets.price_range%255B%255D%3DRs.%2B40000%2B-%2BRs.%2B50000&p%5B%5D=facets.price_range%255B%255D%3DRs.%2B50000%2B-%2BRs.%2B60000&p%5B%5D=facets.screen_size%255B%255D%3D15%2Binch%2B-%2B15.9%2Binch&p%5B%5D=facets.screen_size%255B%255D%3D16%2Binch%2B-%2B17.9%2Binch&p%5B%5D=facets.screen_size%255B%255D%3DAbove%2B20%2Binch&p%5B%5D=facets.screen_size%255B%255D%3D14%2Binch%2B-%2B14.9%2Binch&sort=price_asc&pageUID=1663050251437"
 
 # Initizing variables.
 i, total_page_no = 1, 1
